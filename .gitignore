@@ -1,0 +1,19 @@
+# База данных
+*.db
+
+# Загруженные файлы
+uploads/
+
+# Системные файлы macOS
+.DS_Store
+
+# Go бинарники
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
